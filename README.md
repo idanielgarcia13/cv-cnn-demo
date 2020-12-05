@@ -1,4 +1,4 @@
-# keras-predict-house-prices
+# cv-cnn-demo
 
 This project creates and plots deep learning models with housing price data from a CSV file. This project was based off of [josephlee94](https://github.com/josephlee94) and all credits go to him. This program has been reformatted by Daniel Garcia.
 
